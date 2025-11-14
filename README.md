@@ -1,4 +1,4 @@
-📊 Amazon Prime Video Content Analysis Dashboard
+📊 Amazon Prime Video Content Analysis Dashboard:-
 Project Overview
 This project features an interactive data visualization dashboard built using Power BI. The goal is to perform a comprehensive analysis of the Amazon Prime Video content library, providing key insights into content distribution, performance metrics, and audience trends.
 The attached Amazon prime Dashboard.pbix file is the complete, interactive report.
